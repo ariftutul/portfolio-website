@@ -1,0 +1,53 @@
+.frompart {
+  background-image: url(../images/form.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.frompart .overly {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.frompart .overly h3 {
+  padding-top: 80px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: whitesmoke;
+  text-transform: capitalize;
+  font-size: 40px;
+  text-align: center;
+}
+.frompart .overly p {
+  font-family: 'Montserrat', sans-serif;
+  color: #f8f4f4;
+  text-transform: capitalize;
+  font-size: 18px;
+  text-align: center;
+}
+.frompart form {
+  padding: 100px 0px;
+}
+.frompart form input {
+  margin: 2px 0px;
+  padding: 10px 230px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #d1d5d8;
+  font-size: 10px;
+  text-transform: capitalize;
+  text-align: start;
+}
+.frompart form .form-check-label {
+  margin: 20px 0px;
+  font-size: 20px;
+  color: aliceblue;
+}
+.frompart form button {
+  margin-top: 30px;
+  margin-left: 30px;
+  padding: 10px 30px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 1px solid #0c90b8;
+  border-radius: 5px;
+}

@@ -1,0 +1,31 @@
+.gallery {
+  padding-top: 40px;
+  padding-bottom: 100px;
+  background-color: rgba(228, 224, 224, 0.9);
+}
+.gallery h3 {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: #4e4e4e;
+  text-transform: capitalize;
+  font-size: 40px;
+  text-align: center;
+}
+.gallery p {
+  padding-bottom: 60px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  text-transform: capitalize;
+  color: black;
+  text-align: center;
+}
+.gallery .pictureall {
+  display: flex;
+}
+.gallery .pictureall .picturelist {
+  padding: 10px;
+}
+.gallery .pictureall .picturelist img {
+  width: 380px;
+}

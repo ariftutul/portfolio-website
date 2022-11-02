@@ -1,0 +1,35 @@
+.containerpart {
+  padding: 100px;
+}
+.containerpart .background {
+  text-align: center;
+}
+.containerpart .background .different {
+  display: inline-block;
+  padding: 20px;
+  background-color: #36acf0;
+  border-radius: 6px;
+}
+.containerpart .background .different h4 {
+  text-align: center;
+}
+.containerpart .background .different h4 i {
+  color: aliceblue;
+  font-size: 30px;
+}
+.containerpart h6 {
+  padding: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  text-transform: capitalize;
+  color: black;
+  text-align: center;
+}
+.containerpart p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  text-transform: capitalize;
+  color: black;
+  text-align: center;
+  padding-bottom: 60px;
+}

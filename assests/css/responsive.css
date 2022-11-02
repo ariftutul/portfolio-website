@@ -1,0 +1,165 @@
+
+@media (max-width: 575.98px) {
+
+  .about{
+    padding: 5px 0px;
+  }
+  .about h3{
+    font-size: 15px;
+text-align: center;
+  }
+  .about p{
+    font-size: 12px;
+    text-align: justify;
+  }
+  .containerpart{
+    padding: 10px 0px;
+  }
+  .containerpart h6{
+    font-size: 15px;
+  }
+  .containerpart p{
+    font-size: 15px;
+  }
+  .gallery{
+    padding-top: 10px;
+  }
+  .gallery h3{
+font-size: 20px;
+  }
+
+  .gallery .pictureall{
+    display:unset;
+    
+  }
+  .gallery .pictureall .picturelist{
+    text-align: center;
+
+  }
+  .gallery .pictureall .picturelist img{
+    width: 90%;
+  }
+  .frompart .overly h3{
+    font-size: 20px;
+  }
+  .frompart .overly p{
+    font-size: 15px;
+    }
+    .frompart form{
+      text-align: center;
+    }
+    .frompart form input{
+      padding: 10px 80px;
+     
+    }
+    .frompart form button{
+      margin: auto;
+    }
+
+    .footer ul  {
+display: unset;
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  .about{
+    padding: 5px 0px;
+  }
+  .about h3{
+    font-size: 20px;
+text-align: center;
+  }
+  .about p{
+    font-size: 15px;
+    text-align: justify;
+  }
+  .containerpart{
+    padding: 20px 0px;
+  }
+  .containerpart h6{
+    font-size: 15px;
+  }
+  .containerpart p{
+    font-size: 12px;
+ 
+  }
+  .containerpart .background  .different{
+    padding: 10px;
+  }
+  .gallery h3{
+    font-size: 20px;
+      }
+      .gallery .pictureall{
+        display:unset;
+        
+      }
+      .gallery .pictureall .picturelist{
+        text-align: center;
+    
+      }
+      .gallery .pictureall .picturelist img{
+        width: 90%;
+      }
+      .frompart .overly h3{
+        font-size: 25px;
+      }
+      .frompart .overly p{
+        font-size: 15px;
+        }
+        .frompart form{
+          text-align: center;
+        }
+        .frompart form input{
+          padding: 10px 100px;
+         
+        }
+        .frompart form button{
+         margin-left: 40px;
+        }
+    
+        .footer p  {
+          text-align: center;
+  
+        }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  .gallery .pictureall .picturelist{
+    text-align: center;
+
+  }
+  .gallery .pictureall .picturelist img{
+    width: 90%;
+
+  }
+  .footer p  {
+    text-align: center;
+    font-size: 15px;
+
+  }
+
+     
+  
+}
+
+@media (min-width: 1200px) {
+
+
+}
